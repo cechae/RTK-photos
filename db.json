@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Ivan Rohan",
+      "id": 2
+    },
+    {
+      "name": "Lamar Gottlieb",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Unbranded Rubber Chicken",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Steel Soap",
+      "id": 13
+    },
+    {
+      "userId": 2,
+      "title": "Elegant Plastic Car",
+      "id": 14
+    },
+    {
+      "userId": 2,
+      "title": "Ergonomic Steel Gloves",
+      "id": 16
+    },
+    {
+      "userId": 2,
+      "title": "Handcrafted Rubber Pants",
+      "id": 17
+    }
+  ],
+  "photos": []
+}
